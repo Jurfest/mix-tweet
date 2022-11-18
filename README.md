@@ -1,6 +1,7 @@
 # PluralsightTweet
 
-**TODO: Add description**
+**Pluralsight Elixir Mix application for tweets**
+
 
 ## Installation
 
