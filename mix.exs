@@ -24,7 +24,8 @@ defmodule PluralsightTweet.MixProject do
     [
       {:credo, "~> 1.6"},
       {:quantum, "~> 3.5"},
-      {:extwitter, "~> 0.14.0"}
+      {:extwitter, "~> 0.14.0"},
+      {:mock, "~> 0.3.7"}
       # {:dep_from_hexpm, "~> 0.3.0"},
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"}
     ]
